@@ -49,6 +49,3 @@ Customer churn is a critical problem in the telecom industry. Using the **Telco 
 **Rajeev Mishra**  
 MBA in Data Science & Analytics | Data Analyst | Python | SQL | Power BI  
 [LinkedIn](https://www.linkedin.com/in/rajeevmishra12/) | [Kaggle Profile](https://www.kaggle.com/rajeevmishraa)
-
-             → Dense(32, ReLU)
-             → Output Layer (Sigmoid)
