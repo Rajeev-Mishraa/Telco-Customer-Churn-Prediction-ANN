@@ -32,8 +32,8 @@ Customer churn is a critical problem in the telecom industry. Using the **Telco 
    - Scaling numerical variables using `MinMaxScaler`
 
 2. **Exploratory Data Analysis (EDA)**
-   - Visualized churn rates across demographics and service categories  
-   - Identified key churn drivers using correlation analysis
+   - Visualized churn rates across demographics
+   - Tenure distribution by churn status
 
 3. **Model Building**
    - Implemented multiple classification models  
